@@ -1,6 +1,3 @@
-<!-- BANNER: bỏ ảnh vào assets/banner.png rồi xoá dấu comment ở dòng dưới -->
-<!-- ![banner](./assets/banner.png) -->
-
 ## Hi there! 👋
 I'm **Đình Khôi**, a **Middle Full-stack & DevOps Engineer** at **MiKiTech**, based in Vietnam.
 - 🚀 Building mobile & web products for the European market — Flutter, Node.js, React/Next.js
