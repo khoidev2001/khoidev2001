@@ -49,6 +49,7 @@ I'm **Đình Khôi**, a **Middle Full-stack & DevOps Engineer** at **MiKiTech**,
 
 ## 🎓 Education
 - Bachelor's Degree @ Mientrung University of Civil Engineering (2021 - 2025)
+- TOEIC: 785
 
 ## 🛠 Technologies I Use
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
