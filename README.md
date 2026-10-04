@@ -21,7 +21,7 @@ I'm **Đình Khôi**, a [ROLE — e.g. Full-stack Developer] based in Vietnam.
 | [Position] | [Company] | [Field] | 2023-01 — 2023-12 |
 
 ## 🎓 Education
-- [Degree] @ [University] ([Year] - [Year])
+- Bachelor's Degree @ Mientrung University of Civil Engineering (2021 - 2025)
 
 ## 🛠 Technologies I Use
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
