@@ -5,13 +5,6 @@ I'm **Đình Khôi**, a **Middle Full-stack & DevOps Engineer** at **MiKiTech**,
 - 📱 Background in mobile development (Flutter, Kotlin, Swift) and Android POS apps
 - 🤖 Integrating AI/LLM APIs into real products
 
-## 📚 Projects
-| Repository | Link | Description | Awards |
-| ---------- | ---- | ----------- | ------ |
-| [Project One](https://github.com/khoidev2001/project-one) | [Website](https://example.com) | Short description of project one | / |
-| [Project Two](https://github.com/khoidev2001/project-two) | [Download](https://example.com) | Short description of project two | / |
-| [Project Three](https://github.com/khoidev2001/project-three) | [Website](https://example.com) | Short description of project three | / |
-
 ## 👔 Experience
 | Position | Company | Field | Work Period |
 | -------- | ------- | ----- | ----------- |
