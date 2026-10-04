@@ -1,6 +1,6 @@
 ## Hi there! 👋
 I'm **Đình Khôi**, a **Middle Full-stack & DevOps Engineer** at **MiKiTech**, based in Vietnam.
-- 🚀 Building mobile & web products for the European market — Flutter, Node.js, React/Next.js
+- 🚀 Building mobile & web products for the European market - Flutter, Node.js, React/Next.js
 - ⚙️ Taking care of deployment, monitoring and day-to-day operations
 - 📱 Background in mobile development (Flutter, Kotlin, Swift) and Android POS apps
 - 🤖 Integrating AI/LLM APIs into real products
