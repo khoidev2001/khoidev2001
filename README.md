@@ -8,7 +8,7 @@ I'm **Đình Khôi**, a **Middle Full-stack & DevOps Engineer** at **MiKiTech**,
 ## 👔 Experience
 | Position | Company | Field | Work Period |
 | -------- | ------- | ----- | ----------- |
-| **Middle Full-stack Developer** | **MiKiTech** (Đắk Lắk) | **Mobile, Web & DevOps** | **2026-02 — now** |
+| **Middle Full-stack Developer** | **MiKiTech** (Daklak province) | **Mobile, Web & DevOps** | **2026-02 — now** |
 | Junior Mobile Engineer | TNKAS (remote, Germany) | Android & POS Apps | 2024-09 — 2026-02 |
 | Fresher Mobile Engineer | IMT Solutions (HCM City) | Native Mobile, Japanese Market | 2024-01 — 2024-08 |
 | Mobile Developer Intern | GallopTech (HCM City) | Flutter & Kotlin | 2023-04 — 2023-11 |
